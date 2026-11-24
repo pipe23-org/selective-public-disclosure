@@ -1,8 +1,8 @@
 # selective-public-disclosure
 
-Use-case documents for EUDI wallet presentations that the holder publishes. Each document
-describes a construction in which any reader verifies a published presentation offline
-against the trusted lists.
+Use-case documents on publishing EUDI wallet presentations. Each document describes a
+construction in which any reader verifies a published presentation offline against the
+trusted lists.
 
 The documents are working papers. Each is dated and is left as written. A later document can
 take a different position from an earlier one.
