@@ -15,6 +15,13 @@ take a different position from an earlier one.
 - [federated-accounts/federated-accounts.md](federated-accounts/federated-accounts.md):
   "Published Presentations on Federated Accounts", 2026-11-23.
 
+## Archives
+
+- [Software Heritage](https://archive.softwareheritage.org/browse/origin/visits/?origin_url=https://github.com/pipe23-org/selective-public-disclosure):
+  dated snapshots of this repository.
+- [Wayback Machine](https://web.archive.org/web/*/https://github.com/pipe23-org/selective-public-disclosure):
+  dated captures of the repository page.
+
 ## License
 
 CC-BY-4.0
